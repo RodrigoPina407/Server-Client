@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="isel.g11.memory-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../lib/isel.g11.memory-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
